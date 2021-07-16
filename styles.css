@@ -1,0 +1,78 @@
+/* font-family: 'Festive', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive; */
+body {
+  text-align: center;
+  background-color: #e8f6ef;
+  font-family: verdana, sans-serif;
+}
+.name {
+  font-size: 5.6rem;
+  color: #66bfbf;
+}
+.title {
+  font-size: 2.5rem;
+  position: relative;
+  color: #66bfbf;
+  left: 50px;
+  bottom: 50px;
+  font-weight: normal;
+}
+h1 {
+  font-family: "Sacramento", cursive;
+}
+h3 {
+  font-family: "Merriweather", serif;
+}
+.pro {
+  text-decoration: underline;
+}
+.second-cloud {
+  position: relative;
+  bottom: 200px;
+  left: 100px;
+}
+.first-cloud {
+  position: relative;
+  left: 250px;
+  bottom: 10px;
+}
+.name-title {
+  position: absolute;
+  top: 90px;
+  left: 700px;
+}
+.mountain {
+  position: relative;
+  top: 350px;
+  left: 140px;
+}
+.top-container {
+  position: relative;
+  bottom: 0px;
+  right: 150px;
+}
+.middle-container {
+  position: relative;
+  background-color: #b6c9f0;
+  text-align: center;
+  top: 360px;
+}
+.bottom-container {
+  position: relative;
+  top: 400px;
+  text-align: center;
+}
+.nikhil-pic {
+  width: 200px;
+  height: 200px;
+}
+.problem-pic {
+  width: 400px;
+  height: 200px;
+}
+.coder-pic {
+  width: 400px;
+  height: 200px;
+}
