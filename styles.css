@@ -19,11 +19,75 @@ body {
   bottom: 50px;
   font-weight: normal;
 }
+.my-skills {
+  font-weight: 2.2rem;
+  font-size: 2.2rem;
+}
+.hello {
+  font-weight: 1.7rem;
+  font-size: 1.7rem;
+}
 h1 {
   font-family: "Sacramento", cursive;
+  color: #66bfbf;
 }
 h3 {
   font-family: "Merriweather", serif;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Merriweather", serif;
+  color: #66bfbf;
+}
+.content {
+  font-family: "Yomogi", cursive;
+  font-weight: 1.2rem;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  width: 450px;
+  height: 200px;
+  position: relative;
+  left: 530px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+.content2 {
+  font-family: "Yomogi", cursive;
+  font-weight: 1.3rem;
+  font-size: 1.3rem;
+  line-height: 1.4;
+  position: relative;
+  left: 740px;
+  bottom: 110px;
+  width: 400px;
+  height: 200px;
+  font-family: "Montserrat", sans-serif;
+}
+.content3 {
+  font-family: "Yomogi", cursive;
+  font-weight: 1.3rem;
+  font-size: 1.3rem;
+  line-height: 1.4;
+  position: relative;
+  left: 240px;
+  bottom: 100px;
+  width: 550px;
+  height: 230x;
+  font-family: "Montserrat", sans-serif;
+}
+.skill1 {
+  position: relative;
+  top: 60px;
+  left: 95px;
+  font-weight: 1.5rem;
+  font-size: 1.5rem;
+}
+.skill2 {
+  position: relative;
+  top: 70px;
+  right: 420px;
+  font-weight: 1.5rem;
+  font-size: 1.5rem;
 }
 .pro {
   text-decoration: underline;
@@ -55,24 +119,63 @@ h3 {
 }
 .middle-container {
   position: relative;
-  background-color: #b6c9f0;
+  /* background-color: #b6c9f0; */
   text-align: center;
   top: 360px;
+  margin-bottom: 70px;
+  height: 1.1rem;
+  width: auto;
 }
 .bottom-container {
   position: relative;
-  top: 400px;
+  bottom: 140px;
   text-align: center;
+  background-color: #b2b1b9;
+  margin-top: 100px;
 }
 .nikhil-pic {
   width: 200px;
   height: 200px;
 }
 .problem-pic {
-  width: 400px;
-  height: 200px;
+  width: 10%;
+  height: 7%;
+  border-radius: 90%;
+  border: 5px black solid;
+  position: relative;
+  right: 170px;
+  top: 20px;
 }
 .coder-pic {
-  width: 400px;
-  height: 200px;
+  width: 10%;
+  height: 7%;
+  border-radius: 90%;
+  border: 5px black solid;
+  position: relative;
+  left: 190px;
+  top: 45px;
 }
+.skill-row1 {
+  margin-top: 70px;
+  margin-bottom: 70px;
+  padding: 0;
+  position: relative;
+  right: 80px;
+  bottom: 40px;
+}
+.skill-row2 {
+  margin-bottom: 70px;
+  padding: 0;
+  margin-top: 0;
+  position: relative;
+  bottom: 280px;
+  left: 150px;
+}
+.contact-me {
+  position: relative;
+  bottom: 400px;
+}
+/* .skils {
+  position: relative;
+  bottom: 100px;
+} */
